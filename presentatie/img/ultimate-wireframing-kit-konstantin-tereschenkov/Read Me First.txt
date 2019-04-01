@@ -1,0 +1,15 @@
+1. Quit Sketch App
+
+2. Install San Francisco Font https://developer.apple.com/fonts/ (if you don't already have it)
+3. Open https://sketch.cloud/s/07nV0 and press [Add Library to Sketch]
+
+4. Download Foundation.sketch https://d.pr/f/2IrBPX and move it to Sketch Template Folder ~/Library/Application Support/com.bohemiancoding.sketch3/Templates/
+
+5. Done! You are ready to use Sense8 Library and Foundation Template for wireframing
+
+6. ADVICE: Set nudging 8px https://d.pr/i/0sxy8P (all grids and symbols carefully 8px-fitted)
+
+
+It's absolutely free, but you can support my work via PayPal https://www.paypal.me/kdubrovsky
+
+Mailbox for feature requests — kdubrovsky@gmail.com
